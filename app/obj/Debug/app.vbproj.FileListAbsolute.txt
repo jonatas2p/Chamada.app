@@ -1,0 +1,27 @@
+C:\Users\Suporte\Desktop\projetos\appchamada2\app\bin\Debug\app.exe.config
+C:\Users\Suporte\Desktop\projetos\appchamada2\app\bin\Debug\app.exe
+C:\Users\Suporte\Desktop\projetos\appchamada2\app\bin\Debug\app.pdb
+C:\Users\Suporte\Desktop\projetos\appchamada2\app\bin\Debug\app.xml
+C:\Users\Suporte\Desktop\projetos\appchamada2\app\obj\Debug\app.app_principal.resources
+C:\Users\Suporte\Desktop\projetos\appchamada2\app\obj\Debug\app.Resources.resources
+C:\Users\Suporte\Desktop\projetos\appchamada2\app\obj\Debug\app.vbproj.GenerateResource.cache
+C:\Users\Suporte\Desktop\projetos\appchamada2\app\obj\Debug\app.vbproj.CoreCompileInputs.cache
+C:\Users\Suporte\Desktop\projetos\appchamada2\app\obj\Debug\app.exe
+C:\Users\Suporte\Desktop\projetos\appchamada2\app\obj\Debug\app.xml
+C:\Users\Suporte\Desktop\projetos\appchamada2\app\obj\Debug\app.pdb
+C:\Users\Suporte\Desktop\projetos\appchamada2\app\obj\Debug\app.vbproj.AssemblyReference.cache
+C:\Users\Suporte\Desktop\projetos\appchamada2\app\obj\Debug\app.painel.resources
+F:\Documentos\programação\Visual Studio\appchamada2\app\bin\Debug\app.exe.config
+F:\Documentos\programação\Visual Studio\appchamada2\app\bin\Debug\app.exe
+F:\Documentos\programação\Visual Studio\appchamada2\app\bin\Debug\app.pdb
+F:\Documentos\programação\Visual Studio\appchamada2\app\bin\Debug\app.xml
+F:\Documentos\programação\Visual Studio\appchamada2\app\obj\Debug\app.vbproj.AssemblyReference.cache
+F:\Documentos\programação\Visual Studio\appchamada2\app\obj\Debug\app.vbproj.SuggestedBindingRedirects.cache
+F:\Documentos\programação\Visual Studio\appchamada2\app\obj\Debug\app.app_principal.resources
+F:\Documentos\programação\Visual Studio\appchamada2\app\obj\Debug\app.Resources.resources
+F:\Documentos\programação\Visual Studio\appchamada2\app\obj\Debug\app.painel.resources
+F:\Documentos\programação\Visual Studio\appchamada2\app\obj\Debug\app.vbproj.GenerateResource.cache
+F:\Documentos\programação\Visual Studio\appchamada2\app\obj\Debug\app.vbproj.CoreCompileInputs.cache
+F:\Documentos\programação\Visual Studio\appchamada2\app\obj\Debug\app.exe
+F:\Documentos\programação\Visual Studio\appchamada2\app\obj\Debug\app.xml
+F:\Documentos\programação\Visual Studio\appchamada2\app\obj\Debug\app.pdb

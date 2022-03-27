@@ -1,0 +1,4 @@
+Sistema basico de chamada das fichas ao painel, Desenvolvido em linguagem VB .... 
+
+atalho do executavel .. app/bin/Debug/app.exe
+obs: so abre em windows
